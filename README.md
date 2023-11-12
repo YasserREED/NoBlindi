@@ -13,21 +13,21 @@ This tool is designed for testing the security of NoSQL databases in web applica
 - **Simple Command-Line Interface**
 - **Cross-Platform Compatibility and Support**
 
-## How to Download NoBlindi in Linux
+## Installation 
 
-### Copy this Link
+#### Copy this Link
 ```
 sudo git clone https://github.com/YasserREED/NoBlindi.git
 ```
-### Enter The File
+#### Enter The File
 ```
 cd NoBlindi/
 ```
-### Download requirement library
+#### Download requirement library
 ```
 pip install -r requirements.txt
 ```
-### Open the tool by `python3`
+#### Open the tool by `python3`
 ```
 python3 NoBlindi.py -h
 ```
@@ -50,7 +50,7 @@ python3 NoBlindi.py -u https://api.example.com/v1/authenticate -uf 'email' -un '
 
 <br>
 
-## Commands Examples
+## Usage
 
 ### Simple example:
 ```
